@@ -3,8 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Delta/Java/Practice/src/practice/EnumExample.java</file>
-            <file>file:/D:/Delta/Java/Practice/src/practice/GenericsWithClasses.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/factorypattern/Square.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/javamvc/view/StudentView.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/singletonpattern/Singleton.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/factorypattern/Rectangle.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/javamvc/StudentApp.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/factorypattern/FactoryPattern.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/singletonpattern/SingletonPattern.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/javamvc/model/Student.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/factorypattern/Shape.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/designpattern/factorypattern/ShapeFactory.java</file>
+            <file>file:/D:/Delta/Java/Practice/src/javamvc/controller/StudentController.java</file>
         </group>
     </open-files>
 </project-private>
